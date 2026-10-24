@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DS\\RECURSVIDADE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E259CA-C2C6-4F6A-B103-B7D432A34953}|ARVORE_FRACTAL\\ARVORE_FRACTAL.csproj|e:\\ds\\recursvidade\\arvore_fractal\\arvore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E259CA-C2C6-4F6A-B103-B7D432A34953}|ARVORE_FRACTAL\\ARVORE_FRACTAL.csproj|solutionrelative:arvore_fractal\\arvore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E259CA-C2C6-4F6A-B103-B7D432A34953}|ARVORE_FRACTAL\\ARVORE_FRACTAL.csproj|E:\\DS\\RECURSVIDADE\\arvore_fractal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E259CA-C2C6-4F6A-B103-B7D432A34953}|ARVORE_FRACTAL\\ARVORE_FRACTAL.csproj|solutionrelative:arvore_fractal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\DS\\RECURSVIDADE\\ARVORE_FRACTAL\\Form1.cs",
+              "RelativeDocumentMoniker": "ARVORE_FRACTAL\\Form1.cs",
+              "ToolTip": "E:\\DS\\RECURSVIDADE\\ARVORE_FRACTAL\\Form1.cs",
+              "RelativeToolTip": "ARVORE_FRACTAL\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAMwCcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:24:13.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Arvore.cs",
+              "DocumentMoniker": "E:\\DS\\RECURSVIDADE\\ARVORE_FRACTAL\\Arvore.cs",
+              "RelativeDocumentMoniker": "ARVORE_FRACTAL\\Arvore.cs",
+              "ToolTip": "E:\\DS\\RECURSVIDADE\\ARVORE_FRACTAL\\Arvore.cs",
+              "RelativeToolTip": "ARVORE_FRACTAL\\Arvore.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:06:16.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DS\\GERADOR_CARTELAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8CE9CB-6B9D-4A8F-A46B-83921E14A015}|LOTERIA\\LOTERIA.csproj|e:\\ds\\gerador_cartelas\\loteria\\cartela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8CE9CB-6B9D-4A8F-A46B-83921E14A015}|LOTERIA\\LOTERIA.csproj|solutionrelative:loteria\\cartela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8CE9CB-6B9D-4A8F-A46B-83921E14A015}|LOTERIA\\LOTERIA.csproj|E:\\DS\\GERADOR_CARTELAS\\loteria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8CE9CB-6B9D-4A8F-A46B-83921E14A015}|LOTERIA\\LOTERIA.csproj|solutionrelative:loteria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D8CE9CB-6B9D-4A8F-A46B-83921E14A015}|LOTERIA\\LOTERIA.csproj|E:\\DS\\GERADOR_CARTELAS\\loteria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D8CE9CB-6B9D-4A8F-A46B-83921E14A015}|LOTERIA\\LOTERIA.csproj|solutionrelative:loteria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\DS\\GERADOR_CARTELAS\\LOTERIA\\Form1.cs",
+              "RelativeDocumentMoniker": "LOTERIA\\Form1.cs",
+              "ToolTip": "E:\\DS\\GERADOR_CARTELAS\\LOTERIA\\Form1.cs",
+              "RelativeToolTip": "LOTERIA\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T15:22:08.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cartela.cs",
+              "DocumentMoniker": "E:\\DS\\GERADOR_CARTELAS\\LOTERIA\\Cartela.cs",
+              "RelativeDocumentMoniker": "LOTERIA\\Cartela.cs",
+              "ToolTip": "E:\\DS\\GERADOR_CARTELAS\\LOTERIA\\Cartela.cs*",
+              "RelativeToolTip": "LOTERIA\\Cartela.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T15:04:15.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\DS\\GERADOR_CARTELAS\\LOTERIA\\Form1.cs",
+              "RelativeDocumentMoniker": "LOTERIA\\Form1.cs",
+              "ToolTip": "E:\\DS\\GERADOR_CARTELAS\\LOTERIA\\Form1.cs [Design]",
+              "RelativeToolTip": "LOTERIA\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:50:40.304Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

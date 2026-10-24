@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DS\\HERANCA_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CEE6D4-8896-49D0-A7AE-C4D3B039E2B6}|CONTA_BANCARIA\\CONTA_BANCARIA.csproj|E:\\DS\\HERANCA_02\\conta_bancaria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CEE6D4-8896-49D0-A7AE-C4D3B039E2B6}|CONTA_BANCARIA\\CONTA_BANCARIA.csproj|solutionrelative:conta_bancaria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CEE6D4-8896-49D0-A7AE-C4D3B039E2B6}|CONTA_BANCARIA\\CONTA_BANCARIA.csproj|E:\\DS\\HERANCA_02\\conta_bancaria\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CEE6D4-8896-49D0-A7AE-C4D3B039E2B6}|CONTA_BANCARIA\\CONTA_BANCARIA.csproj|solutionrelative:conta_bancaria\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CEE6D4-8896-49D0-A7AE-C4D3B039E2B6}|CONTA_BANCARIA\\CONTA_BANCARIA.csproj|e:\\ds\\heranca_02\\conta_bancaria\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CEE6D4-8896-49D0-A7AE-C4D3B039E2B6}|CONTA_BANCARIA\\CONTA_BANCARIA.csproj|solutionrelative:conta_bancaria\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CEE6D4-8896-49D0-A7AE-C4D3B039E2B6}|CONTA_BANCARIA\\CONTA_BANCARIA.csproj|e:\\ds\\heranca_02\\conta_bancaria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5CEE6D4-8896-49D0-A7AE-C4D3B039E2B6}|CONTA_BANCARIA\\CONTA_BANCARIA.csproj|solutionrelative:conta_bancaria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CEE6D4-8896-49D0-A7AE-C4D3B039E2B6}|CONTA_BANCARIA\\CONTA_BANCARIA.csproj|E:\\DS\\HERANCA_02\\conta_bancaria\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CEE6D4-8896-49D0-A7AE-C4D3B039E2B6}|CONTA_BANCARIA\\CONTA_BANCARIA.csproj|solutionrelative:conta_bancaria\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContaPoupanca.cs",
+              "DocumentMoniker": "E:\\DS\\HERANCA_02\\CONTA_BANCARIA\\ContaPoupanca.cs",
+              "RelativeDocumentMoniker": "CONTA_BANCARIA\\ContaPoupanca.cs",
+              "ToolTip": "E:\\DS\\HERANCA_02\\CONTA_BANCARIA\\ContaPoupanca.cs",
+              "RelativeToolTip": "CONTA_BANCARIA\\ContaPoupanca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:20:55.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "E:\\DS\\HERANCA_02\\CONTA_BANCARIA\\Conta.cs",
+              "RelativeDocumentMoniker": "CONTA_BANCARIA\\Conta.cs",
+              "ToolTip": "E:\\DS\\HERANCA_02\\CONTA_BANCARIA\\Conta.cs",
+              "RelativeToolTip": "CONTA_BANCARIA\\Conta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:51:38.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\DS\\HERANCA_02\\CONTA_BANCARIA\\Form1.cs",
+              "RelativeDocumentMoniker": "CONTA_BANCARIA\\Form1.cs",
+              "ToolTip": "E:\\DS\\HERANCA_02\\CONTA_BANCARIA\\Form1.cs",
+              "RelativeToolTip": "CONTA_BANCARIA\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:06:12.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContaCorrente.cs",
+              "DocumentMoniker": "E:\\DS\\HERANCA_02\\CONTA_BANCARIA\\ContaCorrente.cs",
+              "RelativeDocumentMoniker": "CONTA_BANCARIA\\ContaCorrente.cs",
+              "ToolTip": "E:\\DS\\HERANCA_02\\CONTA_BANCARIA\\ContaCorrente.cs",
+              "RelativeToolTip": "CONTA_BANCARIA\\ContaCorrente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:59:46.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\DS\\HERANCA_02\\CONTA_BANCARIA\\Form1.cs",
+              "RelativeDocumentMoniker": "CONTA_BANCARIA\\Form1.cs",
+              "ToolTip": "E:\\DS\\HERANCA_02\\CONTA_BANCARIA\\Form1.cs [Design]",
+              "RelativeToolTip": "CONTA_BANCARIA\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:51:05.757Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

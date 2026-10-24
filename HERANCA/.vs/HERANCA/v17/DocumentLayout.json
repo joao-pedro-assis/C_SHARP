@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DS\\HERANCA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{659C71CC-D1E9-4A23-81F3-37A6DBE0CD62}|VALIDADOR_DOCUMENTOS\\VALIDADOR_DOCUMENTOS.csproj|e:\\ds\\heranca\\validador_documentos\\pessoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659C71CC-D1E9-4A23-81F3-37A6DBE0CD62}|VALIDADOR_DOCUMENTOS\\VALIDADOR_DOCUMENTOS.csproj|solutionrelative:validador_documentos\\pessoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659C71CC-D1E9-4A23-81F3-37A6DBE0CD62}|VALIDADOR_DOCUMENTOS\\VALIDADOR_DOCUMENTOS.csproj|e:\\ds\\heranca\\validador_documentos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659C71CC-D1E9-4A23-81F3-37A6DBE0CD62}|VALIDADOR_DOCUMENTOS\\VALIDADOR_DOCUMENTOS.csproj|solutionrelative:validador_documentos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659C71CC-D1E9-4A23-81F3-37A6DBE0CD62}|VALIDADOR_DOCUMENTOS\\VALIDADOR_DOCUMENTOS.csproj|E:\\DS\\HERANCA\\validador_documentos\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659C71CC-D1E9-4A23-81F3-37A6DBE0CD62}|VALIDADOR_DOCUMENTOS\\VALIDADOR_DOCUMENTOS.csproj|solutionrelative:validador_documentos\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659C71CC-D1E9-4A23-81F3-37A6DBE0CD62}|VALIDADOR_DOCUMENTOS\\VALIDADOR_DOCUMENTOS.csproj|E:\\DS\\HERANCA\\validador_documentos\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659C71CC-D1E9-4A23-81F3-37A6DBE0CD62}|VALIDADOR_DOCUMENTOS\\VALIDADOR_DOCUMENTOS.csproj|solutionrelative:validador_documentos\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659C71CC-D1E9-4A23-81F3-37A6DBE0CD62}|VALIDADOR_DOCUMENTOS\\VALIDADOR_DOCUMENTOS.csproj|E:\\DS\\HERANCA\\validador_documentos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{659C71CC-D1E9-4A23-81F3-37A6DBE0CD62}|VALIDADOR_DOCUMENTOS\\VALIDADOR_DOCUMENTOS.csproj|solutionrelative:validador_documentos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PessoaJuridica.cs",
+              "DocumentMoniker": "E:\\DS\\HERANCA\\VALIDADOR_DOCUMENTOS\\PessoaJuridica.cs",
+              "RelativeDocumentMoniker": "VALIDADOR_DOCUMENTOS\\PessoaJuridica.cs",
+              "ToolTip": "E:\\DS\\HERANCA\\VALIDADOR_DOCUMENTOS\\PessoaJuridica.cs",
+              "RelativeToolTip": "VALIDADOR_DOCUMENTOS\\PessoaJuridica.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwB8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:08:21.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\DS\\HERANCA\\VALIDADOR_DOCUMENTOS\\Form1.cs",
+              "RelativeDocumentMoniker": "VALIDADOR_DOCUMENTOS\\Form1.cs",
+              "ToolTip": "E:\\DS\\HERANCA\\VALIDADOR_DOCUMENTOS\\Form1.cs",
+              "RelativeToolTip": "VALIDADOR_DOCUMENTOS\\Form1.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAawBgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:12:51.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PessoaFisica.cs",
+              "DocumentMoniker": "E:\\DS\\HERANCA\\VALIDADOR_DOCUMENTOS\\PessoaFisica.cs",
+              "RelativeDocumentMoniker": "VALIDADOR_DOCUMENTOS\\PessoaFisica.cs",
+              "ToolTip": "E:\\DS\\HERANCA\\VALIDADOR_DOCUMENTOS\\PessoaFisica.cs",
+              "RelativeToolTip": "VALIDADOR_DOCUMENTOS\\PessoaFisica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:01:00.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pessoa.cs",
+              "DocumentMoniker": "E:\\DS\\HERANCA\\VALIDADOR_DOCUMENTOS\\pessoa.cs",
+              "RelativeDocumentMoniker": "VALIDADOR_DOCUMENTOS\\pessoa.cs",
+              "ToolTip": "E:\\DS\\HERANCA\\VALIDADOR_DOCUMENTOS\\pessoa.cs",
+              "RelativeToolTip": "VALIDADOR_DOCUMENTOS\\pessoa.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:57:46.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\DS\\HERANCA\\VALIDADOR_DOCUMENTOS\\Form1.cs",
+              "RelativeDocumentMoniker": "VALIDADOR_DOCUMENTOS\\Form1.cs",
+              "ToolTip": "E:\\DS\\HERANCA\\VALIDADOR_DOCUMENTOS\\Form1.cs [Design]",
+              "RelativeToolTip": "VALIDADOR_DOCUMENTOS\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:50:13.296Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

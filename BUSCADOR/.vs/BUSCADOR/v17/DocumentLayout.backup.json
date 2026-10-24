@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DS\\BUSCADOR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61B417C1-432A-41BC-B349-76BFCB70D6F2}|PROJETO_DICIONARIO\\PROJETO_DICIONARIO.csproj|e:\\ds\\buscador\\projeto_dicionario\\buscador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B417C1-432A-41BC-B349-76BFCB70D6F2}|PROJETO_DICIONARIO\\PROJETO_DICIONARIO.csproj|solutionrelative:projeto_dicionario\\buscador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B417C1-432A-41BC-B349-76BFCB70D6F2}|PROJETO_DICIONARIO\\PROJETO_DICIONARIO.csproj|e:\\ds\\buscador\\projeto_dicionario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B417C1-432A-41BC-B349-76BFCB70D6F2}|PROJETO_DICIONARIO\\PROJETO_DICIONARIO.csproj|solutionrelative:projeto_dicionario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B417C1-432A-41BC-B349-76BFCB70D6F2}|PROJETO_DICIONARIO\\PROJETO_DICIONARIO.csproj|e:\\ds\\buscador\\projeto_dicionario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61B417C1-432A-41BC-B349-76BFCB70D6F2}|PROJETO_DICIONARIO\\PROJETO_DICIONARIO.csproj|solutionrelative:projeto_dicionario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B417C1-432A-41BC-B349-76BFCB70D6F2}|PROJETO_DICIONARIO\\PROJETO_DICIONARIO.csproj|e:\\ds\\buscador\\projeto_dicionario\\dicionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B417C1-432A-41BC-B349-76BFCB70D6F2}|PROJETO_DICIONARIO\\PROJETO_DICIONARIO.csproj|solutionrelative:projeto_dicionario\\dicionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B417C1-432A-41BC-B349-76BFCB70D6F2}|PROJETO_DICIONARIO\\PROJETO_DICIONARIO.csproj|e:\\ds\\buscador\\projeto_dicionario\\ibuscador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B417C1-432A-41BC-B349-76BFCB70D6F2}|PROJETO_DICIONARIO\\PROJETO_DICIONARIO.csproj|solutionrelative:projeto_dicionario\\ibuscador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\DS\\BUSCADOR\\PROJETO_DICIONARIO\\Form1.cs",
+              "RelativeDocumentMoniker": "PROJETO_DICIONARIO\\Form1.cs",
+              "ToolTip": "E:\\DS\\BUSCADOR\\PROJETO_DICIONARIO\\Form1.cs",
+              "RelativeToolTip": "PROJETO_DICIONARIO\\Form1.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwDEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:33:10.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Buscador.cs",
+              "DocumentMoniker": "E:\\DS\\BUSCADOR\\PROJETO_DICIONARIO\\Buscador.cs",
+              "RelativeDocumentMoniker": "PROJETO_DICIONARIO\\Buscador.cs",
+              "ToolTip": "E:\\DS\\BUSCADOR\\PROJETO_DICIONARIO\\Buscador.cs",
+              "RelativeToolTip": "PROJETO_DICIONARIO\\Buscador.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:18:33.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBuscador.cs",
+              "DocumentMoniker": "E:\\DS\\BUSCADOR\\PROJETO_DICIONARIO\\IBuscador.cs",
+              "RelativeDocumentMoniker": "PROJETO_DICIONARIO\\IBuscador.cs",
+              "ToolTip": "E:\\DS\\BUSCADOR\\PROJETO_DICIONARIO\\IBuscador.cs",
+              "RelativeToolTip": "PROJETO_DICIONARIO\\IBuscador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:15:57.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dicionario.cs",
+              "DocumentMoniker": "E:\\DS\\BUSCADOR\\PROJETO_DICIONARIO\\Dicionario.cs",
+              "RelativeDocumentMoniker": "PROJETO_DICIONARIO\\Dicionario.cs",
+              "ToolTip": "E:\\DS\\BUSCADOR\\PROJETO_DICIONARIO\\Dicionario.cs",
+              "RelativeToolTip": "PROJETO_DICIONARIO\\Dicionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:10:52.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\DS\\BUSCADOR\\PROJETO_DICIONARIO\\Form1.cs",
+              "RelativeDocumentMoniker": "PROJETO_DICIONARIO\\Form1.cs",
+              "ToolTip": "E:\\DS\\BUSCADOR\\PROJETO_DICIONARIO\\Form1.cs [Design]",
+              "RelativeToolTip": "PROJETO_DICIONARIO\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:09:57.438Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

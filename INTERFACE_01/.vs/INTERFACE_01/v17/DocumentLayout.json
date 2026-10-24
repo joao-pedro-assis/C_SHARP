@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DS\\INTERFACE_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC358D45-5BF8-49A4-ACCD-38D0199761D9}|FOLHA_PAGAMENTO\\FOLHA_PAGAMENTO.csproj|E:\\DS\\INTERFACE_01\\folha_pagamento\\aposentado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC358D45-5BF8-49A4-ACCD-38D0199761D9}|FOLHA_PAGAMENTO\\FOLHA_PAGAMENTO.csproj|solutionrelative:folha_pagamento\\aposentado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC358D45-5BF8-49A4-ACCD-38D0199761D9}|FOLHA_PAGAMENTO\\FOLHA_PAGAMENTO.csproj|E:\\DS\\INTERFACE_01\\folha_pagamento\\estagiario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC358D45-5BF8-49A4-ACCD-38D0199761D9}|FOLHA_PAGAMENTO\\FOLHA_PAGAMENTO.csproj|solutionrelative:folha_pagamento\\estagiario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC358D45-5BF8-49A4-ACCD-38D0199761D9}|FOLHA_PAGAMENTO\\FOLHA_PAGAMENTO.csproj|e:\\ds\\interface_01\\folha_pagamento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC358D45-5BF8-49A4-ACCD-38D0199761D9}|FOLHA_PAGAMENTO\\FOLHA_PAGAMENTO.csproj|solutionrelative:folha_pagamento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC358D45-5BF8-49A4-ACCD-38D0199761D9}|FOLHA_PAGAMENTO\\FOLHA_PAGAMENTO.csproj|E:\\DS\\INTERFACE_01\\folha_pagamento\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC358D45-5BF8-49A4-ACCD-38D0199761D9}|FOLHA_PAGAMENTO\\FOLHA_PAGAMENTO.csproj|solutionrelative:folha_pagamento\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC358D45-5BF8-49A4-ACCD-38D0199761D9}|FOLHA_PAGAMENTO\\FOLHA_PAGAMENTO.csproj|E:\\DS\\INTERFACE_01\\folha_pagamento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC358D45-5BF8-49A4-ACCD-38D0199761D9}|FOLHA_PAGAMENTO\\FOLHA_PAGAMENTO.csproj|solutionrelative:folha_pagamento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC358D45-5BF8-49A4-ACCD-38D0199761D9}|FOLHA_PAGAMENTO\\FOLHA_PAGAMENTO.csproj|E:\\DS\\INTERFACE_01\\folha_pagamento\\ifuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC358D45-5BF8-49A4-ACCD-38D0199761D9}|FOLHA_PAGAMENTO\\FOLHA_PAGAMENTO.csproj|solutionrelative:folha_pagamento\\ifuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\DS\\INTERFACE_01\\FOLHA_PAGAMENTO\\Form1.cs",
+              "RelativeDocumentMoniker": "FOLHA_PAGAMENTO\\Form1.cs",
+              "ToolTip": "E:\\DS\\INTERFACE_01\\FOLHA_PAGAMENTO\\Form1.cs",
+              "RelativeToolTip": "FOLHA_PAGAMENTO\\Form1.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAlwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:24:19.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "E:\\DS\\INTERFACE_01\\FOLHA_PAGAMENTO\\Funcionario.cs",
+              "RelativeDocumentMoniker": "FOLHA_PAGAMENTO\\Funcionario.cs",
+              "ToolTip": "E:\\DS\\INTERFACE_01\\FOLHA_PAGAMENTO\\Funcionario.cs",
+              "RelativeToolTip": "FOLHA_PAGAMENTO\\Funcionario.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:46:30.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estagiario.cs",
+              "DocumentMoniker": "E:\\DS\\INTERFACE_01\\FOLHA_PAGAMENTO\\Estagiario.cs",
+              "RelativeDocumentMoniker": "FOLHA_PAGAMENTO\\Estagiario.cs",
+              "ToolTip": "E:\\DS\\INTERFACE_01\\FOLHA_PAGAMENTO\\Estagiario.cs",
+              "RelativeToolTip": "FOLHA_PAGAMENTO\\Estagiario.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwBwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:46:05.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aposentado.cs",
+              "DocumentMoniker": "E:\\DS\\INTERFACE_01\\FOLHA_PAGAMENTO\\Aposentado.cs",
+              "RelativeDocumentMoniker": "FOLHA_PAGAMENTO\\Aposentado.cs",
+              "ToolTip": "E:\\DS\\INTERFACE_01\\FOLHA_PAGAMENTO\\Aposentado.cs",
+              "RelativeToolTip": "FOLHA_PAGAMENTO\\Aposentado.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwB8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:31:00.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFuncionario.cs",
+              "DocumentMoniker": "E:\\DS\\INTERFACE_01\\FOLHA_PAGAMENTO\\IFuncionario.cs",
+              "RelativeDocumentMoniker": "FOLHA_PAGAMENTO\\IFuncionario.cs",
+              "ToolTip": "E:\\DS\\INTERFACE_01\\FOLHA_PAGAMENTO\\IFuncionario.cs",
+              "RelativeToolTip": "FOLHA_PAGAMENTO\\IFuncionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T14:52:51.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\DS\\INTERFACE_01\\FOLHA_PAGAMENTO\\Form1.cs",
+              "RelativeDocumentMoniker": "FOLHA_PAGAMENTO\\Form1.cs",
+              "ToolTip": "E:\\DS\\INTERFACE_01\\FOLHA_PAGAMENTO\\Form1.cs [Design]",
+              "RelativeToolTip": "FOLHA_PAGAMENTO\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T14:49:17.152Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

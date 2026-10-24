@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DS\\WEBSERVICE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACE1380-C2A7-448D-B224-DF0D884C9A75}|API_CEP\\API_CEP.csproj|e:\\ds\\webservice\\api_cep\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ACE1380-C2A7-448D-B224-DF0D884C9A75}|API_CEP\\API_CEP.csproj|solutionrelative:api_cep\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACE1380-C2A7-448D-B224-DF0D884C9A75}|API_CEP\\API_CEP.csproj|e:\\ds\\webservice\\api_cep\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0ACE1380-C2A7-448D-B224-DF0D884C9A75}|API_CEP\\API_CEP.csproj|solutionrelative:api_cep\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACE1380-C2A7-448D-B224-DF0D884C9A75}|API_CEP\\API_CEP.csproj|e:\\ds\\webservice\\api_cep\\apicep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ACE1380-C2A7-448D-B224-DF0D884C9A75}|API_CEP\\API_CEP.csproj|solutionrelative:api_cep\\apicep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\DS\\WEBSERVICE\\API_CEP\\Form1.cs",
+              "RelativeDocumentMoniker": "API_CEP\\Form1.cs",
+              "ToolTip": "E:\\DS\\WEBSERVICE\\API_CEP\\Form1.cs",
+              "RelativeToolTip": "API_CEP\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:39:31.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiCep.cs",
+              "DocumentMoniker": "E:\\DS\\WEBSERVICE\\API_CEP\\ApiCep.cs",
+              "RelativeDocumentMoniker": "API_CEP\\ApiCep.cs",
+              "ToolTip": "E:\\DS\\WEBSERVICE\\API_CEP\\ApiCep.cs",
+              "RelativeToolTip": "API_CEP\\ApiCep.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:03:33.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\DS\\WEBSERVICE\\API_CEP\\Form1.cs",
+              "RelativeDocumentMoniker": "API_CEP\\Form1.cs",
+              "ToolTip": "E:\\DS\\WEBSERVICE\\API_CEP\\Form1.cs [Design]",
+              "RelativeToolTip": "API_CEP\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T14:52:00.083Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
